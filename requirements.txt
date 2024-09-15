@@ -1,6 +1,7 @@
 streamlit
-numpy
-pandas
-pandas_reader
-plotly
 yfinance
+pandas
+numpy
+plotly.express
+pandas_datareader
+datetime
